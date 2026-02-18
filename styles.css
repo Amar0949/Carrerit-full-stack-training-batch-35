@@ -1,0 +1,19 @@
+ol,ul{
+    background-color: yellowgreen;
+    width: 15%;
+    display: inline-block;
+    margin: 30px;
+    border: 2px solid brown;
+    border-radius: 30px;
+}
+li{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+li:hover{
+    background-color: black;
+}
